@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-## **All *information* you need at XJTU**
+## **This is the XJTU Wiki, _almost*_ everything you need to know at XJTU.**
+
 **XJTU Wiki** is the project to organize information needed for students in Xi'an Jiaotong University. This wiki [(What is wiki?)](https://en.wikipedia.org/wiki/Wiki) is intended to be collaboratively developed by the community. It shall be freely available to everyone. Everyone is welcomed to collaborate (see [contribution guideline](/about/)). 
 
 ## Get started
