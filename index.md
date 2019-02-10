@@ -7,6 +7,6 @@ layout: home
 The online and most updated version of this wiki is available at [https://xjtu-wiki.github.io](https://xjtu-wiki.github.io). 
 
 ## Get started
-* For new students, please check the [new student guide](/guidelines/new-comers/).
+* For new students, please check the [new student guide](/guidelines/new-comers).
 * For current students, please browse the wiki using [THE WIKI INDEX](/index/).
 * For special information, see **Posts** below. 
