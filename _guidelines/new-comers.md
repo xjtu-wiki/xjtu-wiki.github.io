@@ -44,15 +44,15 @@ Yes, going to registration (at the SIE) is not the first thing you should do.
 The only approved branch for XJTU foreign student is the ICBC sub branch opposite the Cambridge canteen by the south east gate of the university. 
 
 #### 4. Make three photocopies of your documents
-The photocopies can be made at [the SIE](/locations/xjtu-sie/).  
+The photocopies can be made at [the SIE](/locations/xjtu-sie).  
 
 ### Registration 
 Location: SIE 
 Contact your instructor designated on your pre-admission notice. 
 
 ### Resident Permit (RP) application
-To apply for resident permit, please see [How to apply for resident permit](/guidelines/resident-permit/) 
-Location: (all RPs) [The PSB](/locations/the-psb/), (1-year RP only) The west gate police station
+To apply for resident permit, please see [How to apply for resident permit](/guidelines/resident-permit) 
+Location: (all RPs) [The PSB](/locations/the-psb), (1-year RP only) The west gate police station
 
 ... to be updated. 
 

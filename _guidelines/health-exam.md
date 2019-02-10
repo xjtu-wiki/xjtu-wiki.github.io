@@ -6,7 +6,7 @@ To apply for the resident permit, health certificate is needed. Usually, the SIE
 Also, if you need a health certificate for applying to Chinese universities, you can do the health examination at the Shaanxi International Health Center.
 
 ## General information
-* Location: [Shaanxi International Travel Healthcare Center](/locations/healthcare-center/)
+* Location: [Shaanxi International Travel Healthcare Center](/locations/healthcare-center)
 * Cost: 360 RMB (cash only)
 * Documents:
   * Passport
