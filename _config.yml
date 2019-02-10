@@ -25,9 +25,10 @@ github_username:  xjtu-wiki
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Collections
 collections: 
