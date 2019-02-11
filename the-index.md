@@ -1,7 +1,7 @@
 ---
 layout: page
-title: XJTU Wiki Index
-permalink: /index/
+title: The Index
+permalink: /the-index/
 ---
 ## Essential articles
 * [Guide for new comers](/guidelines/new-comers)

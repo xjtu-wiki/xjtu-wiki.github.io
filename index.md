@@ -8,7 +8,7 @@ layout: home
 ## Get started
 * **For new students, please check the [new student guide](/guidelines/new-comers).**
 * Wiki structure: 
-  * [**GUIDELINES:**](/the-index) This will help you get things done. 
+  * [**GUIDELINES:**](/the-index) This will help you get things done. Visit the index page.
   * [**LOCATIONS:**](/locations) Places you need to go are listed here. 
   * For special information, see **Posts** below. 
 
