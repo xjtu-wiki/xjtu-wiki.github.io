@@ -1,7 +1,7 @@
 ---
 title: Test
 layout: page
-permalink: /:collection/abc
+permalink: /guidelines/abc
 ---
 **This is the test page**
 
