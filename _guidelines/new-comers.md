@@ -1,6 +1,7 @@
 ---
 title: New comers
 layout: page
+permalink: new-comers
 ---
 This section is made for the new students who are coming to XJTU for the first time. It is recommended that you go through this document carefully. It will save you a lot of time. 
 
