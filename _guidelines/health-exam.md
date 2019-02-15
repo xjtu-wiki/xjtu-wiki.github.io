@@ -1,5 +1,5 @@
 ---
-title: Health examination/checkups
+title: Physical Health Examination
 layout: page
 ---
 To apply for the resident permit, health certificate is needed. Usually, the SIE will organize the trip for new students to go to the healthcare center to make the checkups.

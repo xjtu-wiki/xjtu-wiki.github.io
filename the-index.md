@@ -20,7 +20,7 @@ permalink: /the-index/
   
 ### Paper work
 * [Apply for non-criminal record certificate](/guidelines/non-criminal-record/)
-* [Do the health checkups](/guidelines/health-exam/)
+* [Physical health examination](/guidelines/health-exam/)
 
 ***REMARK1: The articles that do not have a link are needed to be written.***
 <br />
