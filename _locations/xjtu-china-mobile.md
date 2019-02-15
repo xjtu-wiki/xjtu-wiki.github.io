@@ -9,7 +9,7 @@ China mobile shop on the campus is next to the ICBC Bank. Phone number can be re
 
 ## Links
 * Baidu Map: [https://j.map.baidu.com/m9QdG](https://j.map.baidu.com/m9QdG)
-* Amap: (add link)
+* Amap: [http://f.amap.com/63h7t_0A26FwN](http://f.amap.com/63h7t_0A26FwN)
 
 ## At the China Mobile in XJTU
 Note: Most international students use China Unicom. If you decide to use China Mobile, there might be some problem specific to you that the others cannot help 

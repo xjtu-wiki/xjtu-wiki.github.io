@@ -16,7 +16,7 @@ ICBC Bank on the campus. This is the only back that newly arrived international 
 
 ## Links
 * Baidu Map: [https://j.map.baidu.com/bd14O](https://j.map.baidu.com/bd14O)
-* Amap: (add link)
+* Amap: [http://f.amap.com/2nCRm_0A36FBG](http://f.amap.com/2nCRm_0A36FBG)
 
 ## At the ICBC
 The queueing staff cannot speak English. It is ok to use translation app, write a clear sentence on what you want to do and show it to them. The teller can speak English.
