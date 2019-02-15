@@ -39,4 +39,4 @@ There are fee for everything.
 
 Reference Image: (Last Update: 2017)
 
-![XJTU's sport center operating hours](../assets/img/xjtu-sport-center/hours.jpeg)
+![XJTU's sport center operating hours](/assets/img/xjtu-sport-center/hours.jpeg)
