@@ -56,6 +56,7 @@ Location: (all RPs) [The PSB](/locations/the-psb), (1-year RP only) The west gat
 
 ## Getting a student card
 At the initial period just after registration, the new students will be provided a temporally student ID card, this is to enable you eat in school canteen and give you access to doors and gates. One or two weeks later you will be issued the permanent student ID card that will enable you create a net ID and register for your courses and carry out any process that requires ID card. 
+
 LOCATION: [student card center](/locations/xjtu-student-card/)
 
 ... to be updated. 
