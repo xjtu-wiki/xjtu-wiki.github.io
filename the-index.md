@@ -10,10 +10,12 @@ permalink: /the-index/
 
 ## Other articles
 ### Life
-* [Air pollution](/guidelines/air-pollution)
+* [Air pollution](/guidelines/air-pollution/)
+* [Recharge the bus card at the bus stop](/guidelines/recharge-bus-card-bus-stop/)
+* [Exercising at XJTU](/guidelines/exercise/)
   
 ### Paper work
-* Apply for non-criminal record certificate
-* [Do the health checkups](/guidelines/health-exam)
+* [Apply for non-criminal record certificate](/guidelines/non-criminal-record/)
+* [Do the health checkups](/guidelines/health-exam/)
 
-**Last Update:** February 7th, 2019
+**Last Update:** February 15th, 2019
