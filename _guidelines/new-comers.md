@@ -54,6 +54,10 @@ Contact your instructor designated on your pre-admission notice.
 To apply for resident permit, please see [How to apply for resident permit](/guidelines/resident-permit) 
 Location: (all RPs) [The PSB](/locations/the-psb), (1-year RP only) The west gate police station
 
+## Getting a student card
+At the initial period just after registration, the new students will be provided a temporally student ID card, this is to enable you eat in school canteen and give you access to doors and gates. One or two weeks later you will be issued the permanent student ID card that will enable you create a net ID and register for your courses and carry out any process that requires ID card. 
+LOCATION: [student card center](/locations/xjtu-student-card/)
+
 ... to be updated. 
 
-**Last Update:** February 10th, 2019
+**Last Update:** February 15th, 2019
