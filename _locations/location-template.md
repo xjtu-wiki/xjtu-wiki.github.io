@@ -1,4 +1,7 @@
-# Name of the place
+---
+title: Name of the place
+layout: page
+---
 (Short description)
 
 ## Basic information
