@@ -8,6 +8,7 @@ The PSB is where you can apply for the *resident permit* and *non-criminal recor
 * Office time: 9AM - 3.30PM 
 * Address: Division of Exit-Entry of Xi'an Minucipal Public Security Bureau <br /> 
   No.2, Science and Technology Street, Xi'an, China 
+* Businesses: Apply for resident permit, apply for non-criminal record
 
 ## Links
 * Baidu Map: [http://j.map.baidu.com/abO9Z](http://j.map.baidu.com/abO9Z)

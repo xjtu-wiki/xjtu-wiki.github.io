@@ -44,7 +44,6 @@ Yes, going to registration (at the SIE) is not the first thing you should do.
 The only approved branch for XJTU foreign student is the ICBC sub branch opposite the Cambridge canteen by the south east gate of the university. 
 
 #### 4. Make three photocopies of your documents
-The photocopies can be made at [the SIE](/locations/xjtu-sie).  
 
 ### Registration 
 Location: SIE 
