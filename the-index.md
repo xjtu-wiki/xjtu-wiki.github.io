@@ -10,6 +10,7 @@ permalink: /the-index/
 * Open an ICBC bank account
 * Getting a student card
 * Register for a class (online)
+* [Thesis and graduation](/guidelines/thesis)
 
 ## Other articles
 ### Life
@@ -24,6 +25,6 @@ permalink: /the-index/
 
 ***REMARK1: The articles that do not have a link are needed to be written.***
 <br />
-*REMARK2: Improvements to existing articles are also welcomed.*
+**REMARK2: Improvements to existing articles are also welcomed.**
 
 **Last Update:** February 15th, 2019
