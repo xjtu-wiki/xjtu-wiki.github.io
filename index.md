@@ -8,11 +8,11 @@ layout: home
 ## Get started
 * **For new students, please check the [new student guide](/guidelines/new-comers).**
 * Wiki structure: 
-  * [**GUIDELINES:**](/the-index) This will help you get things done. Visit the index page.
+  * [**THE INDEX:**](/the-index) This contains the index to all information available on this wiki and help you get things done. 
   * [**LOCATIONS:**](/locations) Places you need to go are listed here. 
   * For special information, see **Posts** below. 
 
 ## How to reference to this wiki
-The online and most updated version of this wiki is available at [https://xjtu-wiki.github.io](https://xjtu-wiki.github.io). 
+The online and most updated version of this wiki is available at to locations: [https://xjtu-wiki.github.io](https://xjtu-wiki.github.io) AND [https://xjtu-wiki.gitlab.io/](https://xjtu-wiki.gitlab.io/). 
 
 For source code, please take a look at [the github repository](https://github.com/xjtu-wiki/xjtu-wiki.github.io)
