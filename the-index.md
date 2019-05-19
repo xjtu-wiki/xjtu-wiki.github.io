@@ -14,7 +14,8 @@ permalink: /the-index/
 
 ## Other articles
 ### Student services
-* [Electronic resources](/guidelines/electronicc-resources): software, PPT template, XJTU VPN
+* [Electronic resources](/guidelines/electronic-resources): software, PPT template, XJTU VPN
+
 ### Life
 * [Air pollution](/guidelines/air-pollution/)
 * [Recharge the bus card at the bus stop](/guidelines/recharge-bus-card-bus-stop/)
