@@ -13,6 +13,8 @@ permalink: /the-index/
 * [Thesis and graduation](/guidelines/thesis)
 
 ## Other articles
+### Student services
+* [Electronic resources](/guidelines/electronicc-resources): software, PPT template, XJTU VPN
 ### Life
 * [Air pollution](/guidelines/air-pollution/)
 * [Recharge the bus card at the bus stop](/guidelines/recharge-bus-card-bus-stop/)
