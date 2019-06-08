@@ -1,4 +1,7 @@
-# Requesting the non-criminal record
+---
+title: Requesting the non-criminal record
+layout: page
+---
 This is the guideline for requesting the non-criminal record certificate. To be safe, you should allocate 15 business days for this process. 
 
 ## Required documents
