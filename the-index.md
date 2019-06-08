@@ -15,6 +15,7 @@ permalink: /the-index/
 ## Other articles
 ### Student services
 * [Electronic resources](/guidelines/electronic-resources): software, PPT template, XJTU VPN
+* [On-campus internet service (dorms)](/guidelines/campus-internet-service)
 
 ### Life
 * [Air pollution](/guidelines/air-pollution/)
