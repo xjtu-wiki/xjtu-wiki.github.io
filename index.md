@@ -13,6 +13,6 @@ layout: home
   * For special information, see **Posts** below. 
 
 ## How to reference to this wiki
-The online and most updated version of this wiki is available at to locations: [https://xjtu-wiki.github.io](https://xjtu-wiki.github.io) AND [https://xjtu-wiki.gitlab.io/](https://xjtu-wiki.gitlab.io/). 
+The online and most updated version of this wiki is available at two locations: [https://xjtu-wiki.github.io](https://xjtu-wiki.github.io) AND [https://xjtu-wiki.gitlab.io/](https://xjtu-wiki.gitlab.io/). 
 
 For source code, please take a look at [the github repository](https://github.com/xjtu-wiki/xjtu-wiki.github.io)
