@@ -25,6 +25,10 @@ github_username:  xjtu-wiki
 
 # Build settings
 markdown: kramdown
+kramdown: 
+  input: GFM
+  auto_ids: true  # Auto-generate ID's for headings
+
 theme: minima
 plugins:
   - jekyll-feed
