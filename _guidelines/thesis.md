@@ -59,8 +59,15 @@ The package includes:
 The procedure for filling out degree application forms and graduation is different for each school. In some schools, the procedure would be different from department from department.  
 
 ### For School of Electronic and Information Engineering (SEI/EIE)
-- [Download the form](/assets/thesis-template/degree-application-forms-sei.zip)
+- [Download the forms (ZIP 148 KB)](/assets/thesis-template/degree-application-forms-sei.zip)
 - The form should be used together with hard copy files provided by the school. If you don't get one, contact Yin Laoshi or a representative. 
 
 ### For School of Electrical Engineering
-- [Download the form](/assets/thesis-template/degree-application-forms-ee.zip)
+- [Download the forms (ZIP 329 KB)](/assets/thesis-template/degree-application-forms-ee.zip)
+
+### Generic form (downloaded from GMIS portal)
+- They can be downloaded from student portal [(http://gmis.xjtu.edu.cn/)](http://gmis.xjtu.edu.cn/pyxx/?TARGET=http%3A%2F%2Fgmis.xjtu.edu.cn%2Fpyxx%2F). 
+- Or, see [instruction](/guidelines/download-thesis-form/).
+- [Download the forms (ZIP 392 KB)](/assets/thesis-template/degree-application-forms-gen.zip)
+
+(more coming soon...)
