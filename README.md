@@ -6,3 +6,7 @@ The online and most updated version of this wiki is available at [https://xjtu-w
 
 ## About 
 Please see [the about page](https://xjtu-wiki.github.io/about)
+
+## Get started (Jekyll)
+- Install Jekyll
+- Run the site using this command: `sudo bundle exec jekyll serve`
