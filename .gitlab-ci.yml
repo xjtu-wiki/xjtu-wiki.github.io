@@ -6,7 +6,7 @@ pages:
   - gem install bundler
   - bundler update --bundler
   - gem install jekyll
-  - jekyll build -d public/
+  - bundle exec jekyll build -d public/
   artifacts:
     paths:
     - public
