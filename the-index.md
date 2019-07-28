@@ -11,6 +11,7 @@ permalink: /the-index/
 * Getting a student card
 * Register for a class (online)
 * [Thesis and graduation](/guidelines/thesis)
+* [2019 Admission FAQs](/guidelines/2019-admission-faq)
 
 ## Other articles
 ### Student services
