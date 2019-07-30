@@ -1,9 +1,17 @@
 ---
 layout: home
 ---
-**This is the XJTU Wiki, _almost*_ everything you need to know at XJTU.**
+**This is the Jiaoda Wiki, _almost*_ everything you need to know at XJTU.**
 
-**XJTU Wiki** is the project to organize information needed for students in Xi'an Jiaotong University. This wiki [(What is wiki?)](https://en.wikipedia.org/wiki/Wiki) is intended to be collaboratively developed by the community. It shall be freely available to everyone. Everyone is welcomed to collaborate (see [contribution guideline](/about/)). 
+**Jiaoda Wiki** (former "XJTU Wiki") is the project to organize information needed for students in Xi'an Jiaotong University. This wiki [(What is wiki?)](https://en.wikipedia.org/wiki/Wiki) is intended to be collaboratively developed by the community. It shall be freely available to everyone. Everyone is welcomed to collaborate (see [contribution guideline](/about/)). 
+
+---
+
+## Shortcuts
+* [Guide for new comers](/guidelines/new-comers)
+* [2019 Admission FAQs](/guidelines/2019-admission-faq)
+
+---
 
 ## Get started
 * **For new students, please check the [new student guide](/guidelines/new-comers).**
@@ -13,6 +21,6 @@ layout: home
   * For special information, see **Posts** below. 
 
 ## How to reference to this wiki
-The online and most updated version of this wiki is available at two locations: [https://xjtu-wiki.github.io](https://xjtu-wiki.github.io) AND [https://xjtu-wiki.gitlab.io/](https://xjtu-wiki.gitlab.io/). 
+The online and most updated version of this wiki is available at two locations: [https://jiaodawiki.com](https://jiaodawiki.com) AND [https://xjtu-wiki.gitlab.io/](https://xjtu-wiki.gitlab.io/) as a backup mirror site. 
 
 For source code, please take a look at [the github repository](https://github.com/xjtu-wiki/xjtu-wiki.github.io)

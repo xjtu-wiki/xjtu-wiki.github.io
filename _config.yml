@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: XJTU Wiki
+title: Jiaoda Wiki
 contact: https://github.com/xjtu-wiki/xjtu-wiki.github.io/issues
 description: >- # this means to ignore newlines until "baseurl:"
   Because people can get things done in a much better and more efficient way with the power of organized information. 
-  XJTU Wiki provides useful information for international students visiting Xi'an Jiaotong University. 
+  Jiaoda Wiki provides useful information for international students visiting Xi'an Jiaotong University. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://xjtu-wiki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jiaodawiki.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: N/A
 github_username:  xjtu-wiki
 
