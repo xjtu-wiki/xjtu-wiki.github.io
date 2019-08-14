@@ -41,7 +41,7 @@ layout: page
 > Dear students,
 > 
 > The dorm reservation will start from **16th August 9 a.m. (Beijing Time)**. 
-> Please visit our website: [dorm.xjtu.edu.cn](dorm.xjtu.edu.cn) <br />
+> Please visit our website: [dorm.xjtu.edu.cn](http://dorm.xjtu.edu.cn) <br />
 > The user name is your application No. in our application system 
 > and password is the last 6 number (include letter) of passport. <br />
 > Please check the attachment to get more information about Online Reservation.
