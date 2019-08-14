@@ -5,7 +5,7 @@ layout: page
 
 **Disclaimer**: This FAQ is **not official**, for latest information, please refer to *the 2019 entrance guide*, or *2019 XJTU Fresher's Community*. To report errors or improve this page, you need (1) GitHub account which is free to register, and (2) go to [this link](https://github.com/xjtu-wiki/xjtu-wiki.github.io/issues) to report issues or suggestions. Or [email us](mailto:xjtuwiki@googlegroups.com). 
 
-### What's new in 20190808 update
+### What's new in 20190814 update
 1. Add a reminder from XJTU
 2. Add frequently used apps in China
 3. Add notice for dormitory reservation
@@ -37,16 +37,20 @@ layout: page
 ## Accommodation - Dormitory - Residence - Lodging
 
 ### Notice 
-```
-Dear students,
-The dorm reservation will start from 16th August 9 a.m. (Beijing Time). Please visit our website: dorm.xjtu.edu.cn
-The user name is your application No. in our application system and password is the last 6 number (include letter) of passport.
-Please check the attachment to get more information about Online Reservation.
-Any questions welcome to contact with *dorm_sie(@@@@@)xjtu.edu.cn* 
-(For Yanta Campus students, please contact with _dormwestcampus(@@@@@)163.com_)
-Regards,
-Hua
-```
+
+> Dear students,
+> 
+> The dorm reservation will start from 16th August 9 a.m. (Beijing Time). 
+> Please visit our website: [dorm.xjtu.edu.cn](dorm.xjtu.edu.cn) <br />
+> The user name is your application No. in our application system 
+> and password is the last 6 number (include letter) of passport. <br />
+> Please check the attachment to get more information about Online Reservation.
+> Any questions welcome to contact with dorm_sie@xjtu.edu.cn <br />
+> (For Yanta Campus students, please contact with dormwestcampus@163.com)
+> 
+> Regards, <br />
+> Hua
+
 Attachment
 [PDF guideline](/assets/img/2019-admission-faq/dorm-reservation.pdf)
 
@@ -101,26 +105,25 @@ Attachment
 - Yes. 
 
 ---
-
 ## Notice from XJTU 
 
-For International freshmen, we kindly remind you as follows: 
+> For International freshmen, we kindly remind you as follows: 
+> 
+> 1. It is required to register at Innovation Harbor Campus exactly according to the registration date, > September 5 and 6, shown on your Admission Notice. If you come before that date, please go to Xingqing > Campus for a short stay. We will provide self-paid (CSC students also need to pay) accommodation by > day. 
+> 
+> 2. Accommodation in all campuses only can be check-in before 12:00 P.M. If you enter the university > after that time, we suggest you to find and reserve a temporary room at some hotels near the > university. 
+> 
+> 3. Please make sure to bring at least 5,000 yuan for your own expense. Even for scholarship students, > living expenses might be delayed to collect due to bank procedures. Please prepare enough money for > your daily cost before the scholarship collection day. 
+> 
+> 4. For Master and PhD students, please make sure to bring the original highest degree for the > university staff to check when registration. Those who fail to do so or bring provisional certificate > will be rejected for registration and thus bear the consequences by themselves. 
+> 
+> International Students Affairs Office <br />
+> School of International Education <br />
+> Xi’an Jiaotong University <br />
+> August 7, 2019
 
-1. It is required to register at Innovation Harbor Campus exactly according to the registration date, September 5 and 6, shown on your Admission Notice. If you come before that date, please go to Xingqing Campus for a short stay. We will provide self-paid (CSC students also need to pay) accommodation by day. 
-
-2. Accommodation in all campuses only can be check-in before 12:00 P.M. If you enter the university after that time, we suggest you to find and reserve a temporary room at some hotels near the university. 
-
-3. Please make sure to bring at least 5,000 yuan for your own expense. Even for scholarship students, living expenses might be delayed to collect due to bank procedures. Please prepare enough money for your daily cost before the scholarship collection day. 
-
-4. For Master and PhD students, please make sure to bring the original highest degree for the university staff to check when registration. Those who fail to do so or bring provisional certificate will be rejected for registration and thus bear the consequences by themselves. 
-
-International Students Affairs Office <br />
-School of International Education <br />
-Xi’an Jiaotong University <br />
-August 7, 2019
 
 ---
-
 ## Pictures !!!
 
 ### XJTU Innovation Harbor: general and dormitory
