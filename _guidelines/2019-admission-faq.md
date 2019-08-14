@@ -6,14 +6,14 @@ layout: page
 **Disclaimer**: This FAQ is **not official**, for latest information, please refer to *the 2019 entrance guide*, or *2019 XJTU Fresher's Community*. To report errors or improve this page, you need (1) GitHub account which is free to register, and (2) go to [this link](https://github.com/xjtu-wiki/xjtu-wiki.github.io/issues) to report issues or suggestions. Or [email us](mailto:xjtuwiki@googlegroups.com). 
 
 ### What's new in 20190814 update
-1. Add a reminder from XJTU
-2. Add frequently used apps in China
-3. Add notice for dormitory reservation
-4. Add more Q&As
+1. [Add a reminder from XJTU](#notice-from-xjtu)
+2. [Add frequently used apps in China](#apps)
+3. [Add notice for dormitory reservation](#notice-dormitory-reservation)
+4. Add more Q&As (G4-5, D7-10, R2-3)
 
 ---
 
-## General questions
+## General questions [G]
 
 1. Can I add non-relevant students to the XJTU WeChat group (2019 XJTU Fresher's Community)
 - Absolutely no. 
@@ -34,13 +34,13 @@ layout: page
 
 ---
 
-## Accommodation - Dormitory - Residence - Lodging
+## Accommodation - Dormitory - Residence - Lodging [D] 
 
-### Notice 
+### Notice (dormitory reservation)
 
 > Dear students,
 > 
-> The dorm reservation will start from 16th August 9 a.m. (Beijing Time). 
+> The dorm reservation will start from **16th August 9 a.m. (Beijing Time)**. 
 > Please visit our website: [dorm.xjtu.edu.cn](dorm.xjtu.edu.cn) <br />
 > The user name is your application No. in our application system 
 > and password is the last 6 number (include letter) of passport. <br />
@@ -83,9 +83,12 @@ Attachment
 9. What should CSC students do at the payment step in dormitory reservation? 
 - The charge will be 0, just proceed to the next step with zero charge. The period should be "one year". 
 
+10. Can students pay the dorm fee in _cash_ as stated in the admission guide? 
+- If you prepare cash, you cannot reserve online. when you arrive, the reception will help you and arrange the room to you.
+
 ---
 
-## Registration 
+## Registration [R]
 
 1. What the procedure for requesting delayed registration? 
 - Please refer to the 2019 entrance guide (page 7). The SIE teachers can be reached by the provided email in the admission notice. 
@@ -99,7 +102,7 @@ Attachment
 
 ---
 
-## Food 
+## Food [F]
 
 1. Is Halal food available in the Innovation Harbor? 
 - Yes. 
