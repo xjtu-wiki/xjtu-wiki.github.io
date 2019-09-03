@@ -8,7 +8,8 @@ layout: home
 ---
 
 ## Shortcuts
-* [Guide for new comers](/guidelines/new-comers)
+* [2019!! - Guide for new comers](/guidelines/2019-new-comers)
+* [Guide for new comers (general)](/guidelines/new-comers)
 * [2019 Admission FAQs](/guidelines/2019-admission-faq)
 
 ---

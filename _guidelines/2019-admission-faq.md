@@ -86,6 +86,8 @@ Attachment
 10. Can students pay the dorm fee in _cash_ as stated in the admission guide? 
 - If you prepare cash, you cannot reserve online. when you arrive, the reception will help you and arrange the room to you.
 
+
+
 ---
 
 ## Registration [R]
