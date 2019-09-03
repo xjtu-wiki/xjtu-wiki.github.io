@@ -3,6 +3,8 @@ title: FAQs on XJTU admission in 2019
 layout: page
 ---
 
+Last update: September 3rd, 2019
+
 **Disclaimer**: This FAQ is **not official**, for latest information, please refer to *the 2019 entrance guide*, or *2019 XJTU Fresher's Community*. To report errors or improve this page, you need (1) GitHub account which is free to register, and (2) go to [this link](https://github.com/xjtu-wiki/xjtu-wiki.github.io/issues) to report issues or suggestions. Or [email us](mailto:xjtuwiki@googlegroups.com). 
 
 ### What's new in 20190814 update
@@ -55,7 +57,7 @@ Attachment
 [PDF guideline](/assets/img/2019-admission-faq/dorm-reservation.pdf)
 
 ### Q&As
-1. How to register? 
+1. How to make a room reservation? 
 - The dorm reservation will start from 16th August. Please visit our website: dorm.xjtu.edu.cn
 - The user name is your application No. in our application system and password is the last 6 number of application number.
 - Before 16th Aug we will email  the instruction to student by our application system. And post the instruction on our website (sie.xjtu.edu.cn)
@@ -86,6 +88,7 @@ Attachment
 10. Can students pay the dorm fee in _cash_ as stated in the admission guide? 
 - If you prepare cash, you cannot reserve online. when you arrive, the reception will help you and arrange the room to you.
 
+11. It is suggested to make dormitory reservation in advance. If you intend to come to the school and check in accommodation directly, please pay attention to prepare the expenses and come to handle relevant formalities during working hours (8: 00-12: 00, 14:30-6:30).
 
 
 ---
