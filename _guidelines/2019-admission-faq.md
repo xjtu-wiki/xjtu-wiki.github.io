@@ -23,7 +23,7 @@ Last update: September 3rd, 2019
 2. Which type of scholarship did I get? 
 - Please refer to the _admission notice_ to find out what kind of scholarship you get. 
 
-3. For students wrote their father name on the JW form as a sponsor, will this create problems  for visa processing? 
+3. For students wrote their father name on the JW form as a sponsor, will this create problems for visa processing? 
 - ANS1: previous experience:  okay.  at present: policies change, you may try for the answer.
 - ANS2: If you write father as sponsor you may be asked of financial statement of account. Take note.
 

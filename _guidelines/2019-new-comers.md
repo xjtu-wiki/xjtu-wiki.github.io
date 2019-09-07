@@ -18,8 +18,9 @@ This section is made for the new students who are coming to XJTU for the first t
 * Valid passport(s)
 * JW202 (Issued by XJTU)
 * XJTU Admission Notice (Issued by XJTU)
-* Passport-sized **photos**, a lot of them. 
-* 
+* Passport-sized **photos**, a lot of them
+* For Master and PhD students: the original highest degree
+* 5,000 RMB for your own expense
 
 ### Apps you will need
 * Non-optional
