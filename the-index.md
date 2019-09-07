@@ -8,13 +8,14 @@ permalink: /the-index/
 * [Register for resident permit](../guidelines/resident-permit)
 * [How to get to and from the airport](/guidelines/airport-transport) (not complete)
 * Open an ICBC bank account
-* Getting a student card
+* [Getting a student card](/guidelines/get-a-student-card)
 * Register for a class (online)
 * [Thesis and graduation](/guidelines/thesis)
 * [2019 Admission FAQs](/guidelines/2019-admission-faq)
 
 ## Other articles
 ### Student services
+* [Transportation between I-Harbour and Xingqing Campus](/guidelines/transport-iharbour-xingqing)
 * [Electronic resources](/guidelines/electronic-resources): software, PPT template, XJTU VPN
 * [On-campus internet service (dorms)](/guidelines/campus-internet-service)
 
