@@ -29,8 +29,12 @@ permalink: /the-index/
 * [Apply for non-criminal record certificate](/guidelines/non-criminal-record/)
 * [Physical health examination](/guidelines/health-exam/)
 
+### References
+* [XJTU grading rubric](/guidelines/ref-grades)
+* [Parcel (kuai di) addresses (Xingqing and I-Harbour)](/guidelines/xjtu-parcel-address)
+
 ***REMARK1: The articles that do not have a link are needed to be written.***
 <br />
 **REMARK2: Improvements to existing articles are also welcomed.**
 
-**Last Update:** February 15th, 2019
+**Last Update:** September 30th, 2019
