@@ -9,8 +9,8 @@ permalink: /the-index/
 * [How to get to and from the airport](/guidelines/airport-transport) (not complete)
 * Open an ICBC bank account
 * [Getting a student card](/guidelines/get-a-student-card)
-* [Get started with XJTU mobile app](/guidelines/xjtu-mobile-app)
-* Register for a class (online)
+* [Get started with XJTU mobile app](/guidelines/xjtu-mobile-app) ![XJTU Mobile app icon](/assets/img/xjtu-mobile-app/app-icon-small.png)
+* [Register for a class (online, GMIS system)](/guidelines/class-registration)
 * [Thesis and graduation](/guidelines/thesis)
 * [2019 Admission FAQs](/guidelines/2019-admission-faq)
 
@@ -21,10 +21,12 @@ permalink: /the-index/
 * [On-campus internet service (dorms)](/guidelines/campus-internet-service)
 
 ### Life
-* [Air pollution](/guidelines/air-pollution/)
-* [Recharge the bus card at the bus stop](/guidelines/recharge-bus-card-bus-stop/)
-* [Exercising at XJTU](/guidelines/exercise/)
-* Using XJTU mobile app
+- [Air pollution](/guidelines/air-pollution/)
+- [Recharge the bus card at the bus stop](/guidelines/recharge-bus-card-bus-stop/)
+- Using XJTU mobile app ![XJTU Mobile app icon](/assets/img/xjtu-mobile-app/app-icon-small.png)
+  - [Exercising at XJTU](/guidelines/exercise/)
+- Food
+  - [Thai Bar-B-Q Pork in Xi’an (ข้าวหมูแดงซีอาน)](/guidelines/red-pork-rice)
   
 ### Paper work
 * [Apply for non-criminal record certificate](/guidelines/non-criminal-record/)
@@ -38,5 +40,4 @@ permalink: /the-index/
 <br />
 **REMARK2: Improvements to existing articles are also welcomed.**
 
-<<<<<<< HEAD
-**Last Update:** October 4th, 2019
+**Last Update:** October 6th, 2019
