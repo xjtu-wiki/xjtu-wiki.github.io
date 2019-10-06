@@ -61,7 +61,7 @@ Guangdong Bar-B-Q Pork
 
 รสชาติที่คุ้นเคย the familiar taste
 
-สำหรับรสชาติของอาหารนั้น ก็ถือว่ามีความคล้ายคลึงที่เมืองไทยเลย หมูและมันนุ่มมากไม่คาว ส่วนน้ำซุปค่อนข้างจืดนิดหน่อย สไตล์กวางตุ้ง แต่โดยรวมแล้วโอเคเลย ส่วนราคา ข้าวหมูแดงมื้อนี้ก็ 28 หยวน น้ำซุปฟรี ความคุ้มค่าถือว่าผมให้สี่เต็มห้าเลย ช่วยบรรเทาความคิดถึงบ้านได้ดี นอกจากนั้นอาหารในร้านค่อนข้างสดมาก ควบคุมคุณภาพได้ดี ผมให้คะแนนห้าเต็มหเาเลย ส่วนเรื่องรสชาติผมให้สี่เต็มห้า 
+สำหรับรสชาติของอาหารนั้น ก็ถือว่ามีความคล้ายคลึงที่เมืองไทยเลย หมูและมันนุ่มมากไม่คาว ส่วนน้ำซุปค่อนข้างจืดนิดหน่อย สไตล์กวางตุ้ง แต่โดยรวมแล้วโอเคเลย ส่วนราคา ข้าวหมูแดงมื้อนี้ก็ 28 หยวน น้ำซุปฟรี ความคุ้มค่าถือว่าผมให้สี่เต็มห้าเลย ช่วยบรรเทาความคิดถึงบ้านได้ดี นอกจากนั้นอาหารในร้านค่อนข้างสดมาก ควบคุมคุณภาพได้ดี ผมให้คะแนนห้าเต็มห้าเลย ส่วนเรื่องรสชาติผมให้สี่เต็มห้า 
 
 For the taste of these food, they are similar to some Thai food. Pork are soft and fresh and it is not smelly. For the soup, it is very plain, and it is not special. There are some veggie in the soup and good for health. Totally, it is 28 yuan for this meal.  The worthiness and the taste, I give 4 out of 5. It can help me to release some mood to miss hometown. Moreover, the food in this restaurant are quiet fresh and high quality that I give 5 out of 5 the maximum value.  
 
