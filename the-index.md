@@ -16,9 +16,9 @@ permalink: /the-index/
 
 ## Other articles
 ### Student services
-* [Transportation between I-Harbour and Xingqing Campus](/guidelines/transport-iharbour-xingqing)
+* Shuttle - [Transportation between I-Harbour and Xingqing Campus](/guidelines/transport-iharbour-xingqing)
 * [Electronic resources](/guidelines/electronic-resources): software, PPT template, XJTU VPN
-* [On-campus internet service (dorms)](/guidelines/campus-internet-service)
+* Internet - [On-campus internet service (dorms)](/guidelines/campus-internet-service)
 
 ### Life
 - [Air pollution](/guidelines/air-pollution/)
