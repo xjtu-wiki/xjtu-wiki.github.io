@@ -9,6 +9,7 @@ permalink: /the-index/
 * [How to get to and from the airport](/guidelines/airport-transport) (not complete)
 * Open an ICBC bank account
 * [Getting a student card](/guidelines/get-a-student-card)
+* [Get started with XJTU mobile app](/guidelines/xjtu-mobile-app)
 * Register for a class (online)
 * [Thesis and graduation](/guidelines/thesis)
 * [2019 Admission FAQs](/guidelines/2019-admission-faq)
