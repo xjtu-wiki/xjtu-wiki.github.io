@@ -14,6 +14,7 @@ This is the index page for places that XJTU students must visit and may want to 
 * [BOC (Bank of China)](xjtu-boc)
 * China Unicom (See [map](maps))
 * [China Mobile](xjtu-china-mobile)
+* [Parcel companies (Kuai de)](xjtu-xq-kuaide)
 
 ### Administrative
 * [School of International Education (SIE)](xjtu-sie)
@@ -36,7 +37,7 @@ This is the index page for places that XJTU students must visit and may want to 
 ### Supermarkets
 * [Walmart at WANDA](wanda-walmart)
 * [Walmart at LI FENG](lifeng-walmart)
-* Vanguard near the rainbow bridge
+* [Vanguard](xq-vanguard) near the rainbow bridge
 * New supermarket at LI JIA CUN (2019.02.08)
 
 ### Food
