@@ -15,6 +15,7 @@ permalink: /the-index/
 
 ## Other articles
 ### Student services
+* [XJTU shuttle buses](/guidelines/shuttle) (constantly changing)
 * [Electronic resources](/guidelines/electronic-resources): software, PPT template, XJTU VPN
 * [On-campus internet service (dorms)](/guidelines/campus-internet-service)
 
@@ -32,4 +33,4 @@ permalink: /the-index/
 <br />
 **REMARK2: Improvements to existing articles are also welcomed.**
 
-**Last Update:** February 15th, 2019
+**Last Update:** October 4th, 2019
