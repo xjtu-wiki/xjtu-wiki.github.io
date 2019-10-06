@@ -10,7 +10,7 @@ layout: page
 
 ## Links
 * Baidu Map: [ICBC Bank](http://j.map.baidu.com/3ppQC) (It's close!)
-* Amap: [http://f.amap.com/6CYQw_0786y93](http://f.amap.com/6CYQw_0786y93)
+* Amap: [http://f.amap.com/6CYQw_0786y93](http://f.amap.com/6CYQw_0786y93){:target="_blank"}
 
 ## At the card center
 They do not speak English!

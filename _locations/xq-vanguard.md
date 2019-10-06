@@ -10,8 +10,8 @@ Vanguard is the nearest supermarket to the Xingqing campus. The other supermarke
 * Office time: 7AM - 9PM (**Need confirmation)
 
 ## Links
-* Baidu Map: [http://j.map.baidu.com/5e/dP](http://j.map.baidu.com/5e/dP)
-* Amap: [https://www.amap.com/place/B001D0WOTK](https://www.amap.com/place/B001D0WOTK)
+* Baidu Map: [http://j.map.baidu.com/5e/dP](http://j.map.baidu.com/5e/dP){:target="_blank"}
+* Amap: [https://www.amap.com/place/B001D0WOTK](https://www.amap.com/place/B001D0WOTK){:target="_blank"}
 * Amap QR code: 
   ![Amap QR code to Vanguard](/assets/img/vanguard/vanguard-amap-qr.png)
 

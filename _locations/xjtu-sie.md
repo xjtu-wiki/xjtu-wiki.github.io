@@ -12,4 +12,4 @@ The School of International Education (SIE) is the main organization that intern
 * Address: N/A
 
 ## Links
-* Baidu Map: [https://j.map.baidu.com/veQdG](https://j.map.baidu.com/veQdG)
+* Baidu Map: [https://j.map.baidu.com/veQdG](https://j.map.baidu.com/veQdG){:target="_blank"}

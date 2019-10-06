@@ -12,8 +12,8 @@ The notary office at DA YAN THA provide services to notarize documents.
   ![The front of the notary office](/assets/img/notary-office/notary-office-front.jpg)
 
 ## Links
-* Baidu Map: [http://j.map.baidu.com/sIn4k](http://j.map.baidu.com/sIn4k)
-* Amap: [http://f.amap.com/1XUOV_0D36Fox](http://f.amap.com/1XUOV_0D36Fox)
+* Baidu Map: [http://j.map.baidu.com/sIn4k](http://j.map.baidu.com/sIn4k){:target="_blank"}
+* Amap: [http://f.amap.com/1XUOV_0D36Fox](http://f.amap.com/1XUOV_0D36Fox){:target="_blank"}
 
 ## By subway
 * *From YAN XING MEN:* Take line 3 to DA YAN THA

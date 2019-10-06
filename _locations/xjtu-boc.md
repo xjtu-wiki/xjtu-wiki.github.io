@@ -10,7 +10,7 @@ Bank of China in on the campus. It is located at the north east side of the main
 * Address: N/A
 
 ## Links
-* Baidu Map: [https://j.map.baidu.com/S8QdG](https://j.map.baidu.com/S8QdG)
+* Baidu Map: [https://j.map.baidu.com/S8QdG](https://j.map.baidu.com/S8QdG){:target="_blank"}
 * Amap: (add link)
 
 ## At the BOC in XJTU

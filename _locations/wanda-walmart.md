@@ -10,8 +10,8 @@ This is one of the two close Walmart to the main campus. This one is technically
   ![Outside of the Wanda department store](/assets/img/wanda-walmart/outside.jpg)
 
 ## Links
-* Baidu Map: [https://j.map.baidu.com/rvAfG](https://j.map.baidu.com/rvAfG)
-* Amap: [http://f.amap.com/5Vbjk_0B16BZR](http://f.amap.com/5Vbjk_0B16BZR)
+* Baidu Map: [https://j.map.baidu.com/rvAfG](https://j.map.baidu.com/rvAfG){:target="_blank"}
+* Amap: [http://f.amap.com/5Vbjk_0B16BZR](http://f.amap.com/5Vbjk_0B16BZR){:target="_blank"}
 
 ## By subway
 Currently, subway is not available on this route. 

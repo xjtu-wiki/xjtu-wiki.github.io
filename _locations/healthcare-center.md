@@ -12,8 +12,8 @@ Here we do the medical checkup and get the certificate either for resident permi
 ![The front](/assets/img/healthcare-center/front.jpg)
 
 ## Links
-* Baidu Map: [https://j.map.baidu.com/fM14O](https://j.map.baidu.com/fM14O)
-* Amap: [http://f.amap.com/26msx_00861R7](http://f.amap.com/26msx_00861R7)
+* Baidu Map: [https://j.map.baidu.com/fM14O](https://j.map.baidu.com/fM14O){:target="_blank"}
+* Amap: [http://f.amap.com/26msx_00861R7](http://f.amap.com/26msx_00861R7){:target="_blank"}
 
 ## By subway
 * Go to JI XIANG CUN station on line 3.

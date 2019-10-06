@@ -11,8 +11,8 @@ The PSB is where you can apply for the *resident permit* and *non-criminal recor
 * Businesses: Apply for resident permit, apply for non-criminal record
 
 ## Links
-* Baidu Map: [http://j.map.baidu.com/abO9Z](http://j.map.baidu.com/abO9Z)
-* Amap: [http://f.amap.com/1vt8F_0836vBB](http://f.amap.com/1vt8F_0836vBB)
+* Baidu Map: [http://j.map.baidu.com/abO9Z](http://j.map.baidu.com/abO9Z){:target="_blank"}
+* Amap: [http://f.amap.com/1vt8F_0836vBB](http://f.amap.com/1vt8F_0836vBB){:target="_blank"}
 
 ## By subway
 * *From YAN XING MEN:* Go directly to TAI BAI NAN LU station. 
