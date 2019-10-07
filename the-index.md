@@ -33,6 +33,7 @@ permalink: /the-index/
 * [Physical health examination](/guidelines/health-exam/)
 
 ### References
+* [XJTU School Calendar](/guidelines/school-calendar)
 * [XJTU grading rubric](/guidelines/ref-grades)
 * [Parcel (kuai di) addresses (Xingqing and I-Harbour)](/guidelines/xjtu-parcel-address)
 
