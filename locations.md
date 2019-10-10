@@ -42,9 +42,9 @@ This is the index page for places that XJTU students must visit and may want to 
 
 ### Food
 * Non-halal restaurant
-  * 
-* Halal certified restaurant
   * Bestfood (South east gate)
+* Halal certified restaurant
+  * 
 
 ## Transportation 
 * The airport 
