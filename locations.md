@@ -47,6 +47,8 @@ This is the index page for places that XJTU students must visit and may want to 
   * 
 
 ## Transportation 
-* The airport 
-* The high-speed train railway
+* Xianyang International Airport 
+* The high-speed railway station 高铁
+* _Commuter train 火车_
+* [(external link) Xi'an City bus search engine](https://www.travelchinaguide.com/cityguides/xian/bus-subway-search.htm){:target="_blank"}
 * 
