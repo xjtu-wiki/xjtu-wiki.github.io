@@ -15,21 +15,21 @@ Go to WeChat Pay > Mobile Top Up > Recharge!
 ## Step 1
 Go to "me" section
 
-![Go to "me" section](/assets/img/phone-recharge/wechat-1.jpg){ width: 200px; }
+![Go to "me" section](/assets/img/phone-recharge/wechat-1.jpg)
 
 ## Step 2
 Select WeChat Pay
-![Select WeChat Pay](/assets/img/phone-recharge/wechat-2.jpg){ width: 200px; }
+![Select WeChat Pay](/assets/img/phone-recharge/wechat-2.jpg)
 
 ## Step 3
 Go to "Mobile Top Up"
 
-![Go to "Mobile Top Up"](/assets/img/phone-recharge/wechat-3.jpg){ width: 200px; }
+![Go to "Mobile Top Up"](/assets/img/phone-recharge/wechat-3.jpg)
 
 
 ## Step 4
 Input your phone number and select the amount. 
 
-![](/assets/img/phone-recharge/wechat-1.jpg){ width: 200px; }
+![](/assets/img/phone-recharge/wechat-1.jpg)
 
 Last update: October 16th, 2019

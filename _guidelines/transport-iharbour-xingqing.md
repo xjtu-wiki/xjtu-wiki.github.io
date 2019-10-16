@@ -10,7 +10,7 @@ XJTU provides free shuttle buses to transport students to and from Xingqing Camp
 ### Web APP
 [Web APP](https://www.jiandaoyun.com/wangluopingtai){:target="_blank"}
 
-![Web app poster](/assets/img/shuttle/web-app-poster.jpeg){ width: 200px; }
+![Web app poster](/assets/img/shuttle/web-app-poster.jpeg)
 
 ### Time table of normal buses
 
