@@ -23,6 +23,7 @@ permalink: /the-index/
 ### Life
 - [Air pollution](/guidelines/air-pollution/)
 - [Recharge the bus card at the bus stop](/guidelines/recharge-bus-card-bus-stop/)
+- [Recharge mobile phone balance with WeChat](/guidelines/recharge-phone-wechat)
 - Using XJTU mobile app ![XJTU Mobile app icon](/assets/img/xjtu-mobile-app/app-icon-small.png)
   - [Exercising at XJTU](/guidelines/exercise/)
 - Food
