@@ -26,3 +26,6 @@ Time table between I-Harbour and YU HUA ZHAI
 ## Public transportation
 - Bus stop nearest to the I-Harbour campus (A-Map): [https://www.amap.com/place/BS12678280](https://www.amap.com/place/BS12678280){:target="_blank"}
 
+---
+
+Last update: October 4th, 2019
