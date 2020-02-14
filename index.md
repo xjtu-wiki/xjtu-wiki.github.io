@@ -1,12 +1,15 @@
 ---
 layout: home
 ---
-**This is the Jiaoda Wiki, _almost*_ everything you need to know at XJTU.**
-
 ## Search the wiki
-Search by Google
+### Search by Google
 <script async src="https://cse.google.com/cse.js?cx=000245031814142933815:alqk4xr94xv"></script>
 <div class="gcse-search"></div>
+_*Google custom search may not work in China_
+
+---
+
+**This is the Jiaoda Wiki, _almost*_ everything you need to know at XJTU.**
 
 **Jiaoda Wiki** (former "XJTU Wiki") is the project to organize information needed for students in Xi'an Jiaotong University. This wiki [(What is wiki?)](https://en.wikipedia.org/wiki/Wiki) is intended to be collaboratively developed by the community. It shall be freely available to everyone. Everyone is welcomed to collaborate (see [contribution guideline](/about/)).
 
