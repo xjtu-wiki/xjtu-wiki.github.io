@@ -4,6 +4,12 @@ layout: page
 ---
 This is an unofficial and general guideline on how to proceed with the thesis writing, defense, and degree application. 
 
+## Table of content 
+- Important step
+- Forms and documents 
+- Thesis template 
+- 
+
 ## Important note
 There are two main parties where you can confirm the procedure for your particular case of thesis defense and graduation process. 
 1. The supervisor
@@ -28,8 +34,8 @@ There are two main parties where you can confirm the procedure for your particul
 (including thesis defense material)
 
 ## Thesis formatting
-The thesis formatting must comply with Xi'an Jiaotong University format. The official and unofficial template can be founded below. 
-The temaplate is NOT STANDARDIZED especially for international students, the print shop knows best (they are the ones allowing you to print), consult them. 
+- The thesis formatting must comply with Xi'an Jiaotong University format. The official and unofficial template can be founded below. 
+- The temaplate is ***NOT STANDARDIZED*** especially for international students, the print shop knows best (they are the ones allowing you to print), consult them. 
 
 ### XJTU thesis template
 The package includes: 
@@ -45,6 +51,11 @@ The package includes:
  
 **Cover page template**
 - [XJTU Wiki's link](/assets/thesis-template/thesis-cover-template.zip)
+
+### XJTU thesis template on Overleaf 
+The template is also available on Overleaf. Overleaf is a free, collaborative online LaTeX editor that allows you to write your manuscript in a TeX or rich text environment, to generate PDF outputs as you write.
+
+[Overleaf template](https://www.overleaf.com/latex/templates/latex-template-for-doctoral-thesis-of-xjtu/bmrqcdhbdrcw)
 
 #### Note about formatting 
 - The format has been changed since 2018. Any format files older than that should not be used. 
