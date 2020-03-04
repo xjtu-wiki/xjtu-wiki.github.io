@@ -11,22 +11,33 @@ categories: general
   - the I-Harbour is "**长安区**" Chang An District (Cháng'ān qū).
 - Passport == **护照** (Hùzhào)
 
-## 1. Scan the QR code
+---
+
+## Detailed guide: 
+
+![](/assets/posts/2020-03-04-xian-one-pass/summarize-one-pass.jpg)
+
+--
+## Simplified guide
+
+### 1. Scan the QR code
 or click [here](https://data.xa.gov.cn/ptrace/view/index.html)
 
 ![](/assets/posts/2020-03-04-xian-one-pass/one-pass-qr.png)
 
-## 2. 择“身份信息登记”/Choose “身体信息登记”
+### 2. 择“身份信息登记”/Choose “身体信息登记”
 
 ![](/assets/posts/2020-03-04-xian-one-pass/1-choose.png)
 
-## 3. Fill your information
+### 3. Fill your information
 Here is some translation to help: 
 
 ![](/assets/posts/2020-03-04-xian-one-pass/2-fill-info.png)
 
 And here..
 ![](/assets/posts/2020-03-04-xian-one-pass/3-residential.png)
+
+---
 
 ## References
 [Download the manual (MS Word)](/assets/posts/2020-03-04-xian-one-pass/How%20to%20obtain%20the%20one%20code%20pass.docx)
