@@ -6,7 +6,9 @@ categories: general
 ---
 ## Tips
 - Obtaining the one code pass requires working Chinese mobile number.
-- The district of the Xingqing campus is "**碑林区**" Beilin District (Bēilín qū). 
+- The district of 
+  - the Xingqing campus is "**碑林区**" Beilin District (Bēilín qū). 
+  - the I-Harbour is "**长安区**" Chang An District (Cháng'ān qū).
 - Passport == **护照** (Hùzhào)
 
 ## 1. Scan the QR code
