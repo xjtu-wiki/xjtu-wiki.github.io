@@ -5,7 +5,7 @@ date:   2020-03-04 12:50:00 +0800
 categories: general
 ---
 ## Tips
-- Obtaining the one code pass requires working Chinese mobile number.
+- Obtaining the one code pass requires working Chinese mobile number. So, put in your SIM card :-)
 - The district of 
   - the Xingqing campus is "**碑林区**" Beilin District (Bēilín qū). 
   - the I-Harbour is "**长安区**" Chang An District (Cháng'ān qū).

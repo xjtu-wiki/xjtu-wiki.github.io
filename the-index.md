@@ -11,7 +11,7 @@ permalink: /the-index/
 * [Getting a student card](/guidelines/get-a-student-card)
 * [Get started with XJTU mobile app](/guidelines/xjtu-mobile-app) ![XJTU Mobile app icon](/assets/img/xjtu-mobile-app/app-icon-small.png)
 * [Register for a class (online, GMIS system)](/guidelines/class-registration)
-* [Thesis and graduation](/guidelines/thesis)
+* [Thesis and graduation](/guidelines/thesis): XJTU thesis template
 * [2019 Admission FAQs](/guidelines/2019-admission-faq)
 
 ## Other articles

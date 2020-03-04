@@ -6,9 +6,8 @@ This is an unofficial and general guideline on how to proceed with the thesis wr
 
 ## Table of content 
 - Important step
-- Forms and documents 
-- Thesis template 
-- 
+- Forms and documents
+- [Thesis template](#xjtu-thesis-template)
 
 ## Important note
 There are two main parties where you can confirm the procedure for your particular case of thesis defense and graduation process. 
@@ -82,3 +81,6 @@ The procedure for filling out degree application forms and graduation is differe
 - [Download the forms (ZIP 392 KB)](/assets/thesis-template/degree-application-forms-gen.zip)
 
 (more coming soon...)
+
+---
+**Keywords:** Xi'an Jiaotong University, XJTU, thesis, template
