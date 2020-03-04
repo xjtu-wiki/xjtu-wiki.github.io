@@ -17,7 +17,7 @@ categories: general
 
 ![](/assets/posts/2020-03-04-xian-one-pass/summarize-one-pass.jpg)
 
---
+---
 ## Simplified guide
 
 ### 1. Scan the QR code
