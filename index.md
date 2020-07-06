@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 ## Checkout the new version of this wiki. 
 <a href="https://int.jiaodawiki.com">
