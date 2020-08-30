@@ -35,7 +35,7 @@ _*Google custom search may not work in China_
   * For special information, see **Posts** below.
 
 ## How to reference to this wiki
-The online and most updated version of this wiki is available at two locations: [https://jiaodawiki.com](https://jiaodawiki.com) AND [https://xjtu-wiki.gitlab.io/](https://xjtu-wiki.gitlab.io/) as a backup mirror site.
+The online and most updated version of this wiki is available at two locations: [https://jiaodawiki.com](https://jiaodawiki.com).
 
 For source code, please take a look at [the github repository](https://github.com/xjtu-wiki/xjtu-wiki.github.io)
 
